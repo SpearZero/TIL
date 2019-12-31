@@ -80,6 +80,12 @@
 - 책 내용이 어려운 느낌은 있었다.
 - 두고두고 반복해서 읽어봐야 할 것 같다.
 
+#### 그림으로 공부하는 IT 인프라 구조
+> https://book.naver.com/bookdb/book_detail.nhn?bid=9252940
+
+- IT인프라 구조에 대해 전반적으로 배울 수 있는 착
+- 인프라 뿐만 아니라 다양한 전산 용어와 개념에 대해서도 설명해줌
+
 #### 스프링 부트 퀵 스타트
 > https://book.naver.com/bookdb/book_detail.nhn?bid=15062997
 
