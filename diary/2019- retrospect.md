@@ -97,7 +97,7 @@
 #### JavaScript
 > https://www.udemy.com/course/the-complete-javascript-course/
 
-- 최신 자바스크립트 문법에 대해 알고 싶어서 산 책
+- 최신 자바스크립트 문법에 대해 알고 싶어서 산 강의
 - 문법에 대한 설명과 실습, 프로젝트를 제공해서 재밌게 볼 수 있었다.
 
 #### JPA
