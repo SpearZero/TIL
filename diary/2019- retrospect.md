@@ -80,6 +80,12 @@
 - 책 내용이 어려운 느낌은 있었다.
 - 두고두고 반복해서 읽어봐야 할 것 같다.
 
+#### 그림으로 공부하는 IT 인프라 구조
+> https://book.naver.com/bookdb/book_detail.nhn?bid=9252940
+
+- IT인프라 구조에 대해 전반적으로 배울 수 있는 책
+- 인프라 뿐만 아니라 다양한 전산 용어와 개념에 대해서도 설명해줌
+
 #### 스프링 부트 퀵 스타트
 > https://book.naver.com/bookdb/book_detail.nhn?bid=15062997
 
@@ -97,7 +103,7 @@
 #### JavaScript
 > https://www.udemy.com/course/the-complete-javascript-course/
 
-- 최신 자바스크립트 문법에 대해 알고 싶어서 산 책
+- 최신 자바스크립트 문법에 대해 알고 싶어서 산 강의
 - 문법에 대한 설명과 실습, 프로젝트를 제공해서 재밌게 볼 수 있었다.
 
 #### JPA
