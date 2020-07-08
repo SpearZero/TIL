@@ -7,3 +7,5 @@
 - [Authentication & Authorization](01.md)
 - [Authroties and Roles](01.md)
 - [JWT Authentication](01.md)
+- [Form Based Authentication](02.md)
+- [HTTP Basic Authentication](02.md)
