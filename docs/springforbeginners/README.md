@@ -5,3 +5,5 @@
 위의 강의를 보고 정리
 
 [Why Spring inversion of control](01.md)
+
+[What is dependency injection in Spring](02.md)
