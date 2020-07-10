@@ -4,8 +4,8 @@
 
 위의 유튜브 강의를 정리
 
-- [Authentication & Authorization](01.md)
-- [Authroties and Roles](01.md)
-- [JWT Authentication](01.md)
+- [Authentication & Authorization](01.md#authentication--authorization)
+- [Authroties and Roles](01.md#authorities-and-roles)
+- [JWT Authentication](01.md#jwt-authentication)
 - [Form Based Authentication](02.md)
 - [HTTP Basic Authentication](02.md)
