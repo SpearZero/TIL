@@ -7,5 +7,5 @@
 - [Authentication & Authorization](01.md#authentication--authorization)
 - [Authroties and Roles](01.md#authorities-and-roles)
 - [JWT Authentication](01.md#jwt-authentication)
-- [Form Based Authentication](02.md)
-- [HTTP Basic Authentication](02.md)
+- [Form Based Authentication](02.md#form-based-authentication)
+- [HTTP Basic Authentication](02.md#http-basic-authentication)
