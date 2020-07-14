@@ -10,4 +10,6 @@
 
 [Setter & Constructor Injection in SPRING : Injecting literal values](03.md)
 
-[Explore spring dependency injection - step by step : injecting objects](04.md)
+[Explore spring dependency injection - step by step || injecting objects](04.md)
+
+[How to achieve loose coupling with spring || spring dependency injection](05.md)
