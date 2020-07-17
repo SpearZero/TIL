@@ -13,3 +13,5 @@
 [Explore spring dependency injection - step by step || injecting objects](04.md)
 
 [How to achieve loose coupling with spring || spring dependency injection](05.md)
+
+[Why autowiring in spring | XML | @Autowired | @qualifier](06.md)
