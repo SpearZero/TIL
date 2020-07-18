@@ -15,3 +15,5 @@
 [How to achieve loose coupling with spring || spring dependency injection](./docs/05.md)
 
 [Why autowiring in spring | XML | @Autowired | @qualifier](./docs/06.md)
+
+[Injecting literal values from properties file using spring annotations || @value || @Required](./docs/07.md)
