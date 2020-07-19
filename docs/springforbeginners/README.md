@@ -17,3 +17,5 @@
 [Why autowiring in spring | XML | @Autowired | @qualifier](./docs/06.md)
 
 [Injecting literal values from properties file using spring annotations || @value || @Required](./docs/07.md)
+
+[Spring annotation tutorial for beginners |All In1 spring core annotations](./docs/08.md)
