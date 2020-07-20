@@ -13,3 +13,4 @@
 - [Destructuring](11.destructuring.md)
 - [Spread](12.Spread.md)
 - [Rest 파라미터](13.Rest파라미터.md)
+- [default 파라미터](14.default파라미터.md)
