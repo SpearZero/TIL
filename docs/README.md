@@ -12,6 +12,6 @@
 - [SpringForBeginners](./springforbeginners/)
 - Spring Core중에서 기초 부분에 대한 강의
 
-### SpringSecurity
-- [SpringSecurity](./springSecurity/)
+### WebSecurity
+- [WebSecurity](./WebSecurity/)
 - 웹에서 사용하는 여러 보안 방식에 대한 강의
