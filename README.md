@@ -6,7 +6,7 @@
 - 네트워크 강의를 듣고 정리함
 
 ### 자바8
-- [Java8](./docs//java(람다,스트림)/)
+- [Java8](./docs/java(람다,스트림)/)
 - 자바8 문법에 대해 정리
 
 ### 자바스크립트
@@ -20,3 +20,6 @@
 ### WebSecurity
 - [WebSecurity](./docs//WebSecurity/)
 - 웹에서 사용하는 여러 보안 방식에 대한 강의
+
+### Real MySQL
+- [Real MySQL](./docs/MySQL)
