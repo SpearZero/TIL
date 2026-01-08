@@ -6,6 +6,9 @@
 ### Real MySQL
 - [Real MySQL](./docs/MySQL)
 
+### 바이브 코딩 너머 개발자 생존법
+- [개발자 생존법](./docs/VibeCoding/)
+
 ### 네트워크
 - [Network](./docs/Network/)
 - http://www.kocw.net/home/search/kemView.do?kemId=1312397
