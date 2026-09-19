@@ -12,6 +12,9 @@
 ### Real MySQL
 - [Real MySQL](./docs/MySQL)
 
+### 소프트웨어 아키텍처
+- [소프트웨어 아키텍처](./docs/SoftwareArchitecture/)
+
 ### 바이브 코딩 너머 개발자 생존법
 - [개발자 생존법](./docs/VibeCoding/)
 
